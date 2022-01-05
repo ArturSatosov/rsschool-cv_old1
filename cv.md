@@ -12,7 +12,6 @@ Kama Polytechnic of Institute, Naberezhnye Chelny
 ### Army ###
 147 Automobile Base of the Ministry of Defense of the Russian Federation, Moscow
 ___
-
 ### About me ###
 1. I am engineer-constructor.
 2. I am developing construction documentation(CMD- construction metal detailing) for macking stell constraction in 3d programm.
